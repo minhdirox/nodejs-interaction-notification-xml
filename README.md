@@ -1,3 +1,5 @@
+See below for the XML data will be captured by server
+```
 ~/sources/express$ nodemon .
 [nodemon] 1.18.11
 [nodemon] to restart at any time, enter `rs`
@@ -21,3 +23,4 @@ Web server listening at: http://localhost:3000
      webapicustomparam3: [ '' ],
      webapicustomparam4: [ '' ],
      estimatedrevenue: [ '25' ] } }
+```
