@@ -1,0 +1,15 @@
+{
+  "name": "simple-api-server",
+  "version": "1.0.0",
+  "description": "Simple API works with XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "my.vo@dirox.net",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-xml-bodyparser": "^0.3.0"
+  }
+}
